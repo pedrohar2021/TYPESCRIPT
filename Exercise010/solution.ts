@@ -121,3 +121,4 @@ startTheApp().then(
         console.log(`Error: "${e.message}", but it's fine, sometimes errors are inevitable.`);
     }
 );
+

@@ -116,3 +116,4 @@ startTheApp((e: Error | null) => {
         console.log('Success!');
     }
 });
+
