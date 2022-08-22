@@ -1,6 +1,6 @@
 # BlueEdTech
 ## M6 - FLS - FRONTEND TS
-### Exercícios TypeScript
+## Exercícios TypeScript
 
 
 Exercicios e respectivas soluções em TypeScript
